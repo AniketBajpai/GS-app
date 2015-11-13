@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Manish Singh\workspace\timepass\android1\oCRTest\build\intermediates\exploded-aar\android1\tesstwo\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="90023451c702346120f64e360d1af31d5f79bb60">
+        <dex dex="C:\Users\Manish Singh\workspace\timepass\android1\oCRTest\build\intermediates\pre-dexed\debug\classes-fafb50c5b3a6c750b433c2f42e6ae9e8bd3613a3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Manish Singh\workspace\timepass\android1\oCRTest\libs\google-api-translate-java-0.98-mod2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2eda6905f8b719be023772e5c738d93c6b77210b">
+        <dex dex="C:\Users\Manish Singh\workspace\timepass\android1\oCRTest\build\intermediates\pre-dexed\debug\google-api-translate-java-0.98-mod2-88bf0b9c61d7fff71e0819ddce0be6a405d7caf7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Manish Singh\workspace\timepass\android1\oCRTest\libs\json_simple-1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5e303a03d04e6788dddfa3655272580ae0fc13bb">
+        <dex dex="C:\Users\Manish Singh\workspace\timepass\android1\oCRTest\build\intermediates\pre-dexed\debug\json_simple-1.1-f835a9d641e6f42f014690b8bed483bf6f62e75a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Manish Singh\workspace\timepass\android1\oCRTest\libs\microsoft-translator-java-api-0.6-mod.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="176df3274c901602fe2b6c345326a6990be557b9">
+        <dex dex="C:\Users\Manish Singh\workspace\timepass\android1\oCRTest\build\intermediates\pre-dexed\debug\microsoft-translator-java-api-0.6-mod-79d3f490ac8c80c69cde3094a950b74480cc7465.jar" />
+    </item>
+    <item
+        jar="C:\Users\Manish Singh\workspace\timepass\android1\oCRTest\libs\jtar-1.0.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b6ff62805312c9384c2f4cc21a6367b74fd2bbd7">
+        <dex dex="C:\Users\Manish Singh\workspace\timepass\android1\oCRTest\build\intermediates\pre-dexed\debug\jtar-1.0.4-adf9147333967473e56965943d6d52038700be69.jar" />
+    </item>
+
+</items>
